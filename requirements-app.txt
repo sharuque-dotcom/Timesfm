@@ -1,0 +1,6 @@
+timesfm[torch] @ git+https://github.com/google-research/timesfm.git
+yfinance
+pandas
+matplotlib
+gradio
+plotly
